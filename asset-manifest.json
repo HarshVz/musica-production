@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/musica-production/static/css/main.0c440251.css",
+    "main.js": "/musica-production/static/js/main.8dc84561.js",
+    "static/js/787.f7911b69.chunk.js": "/musica-production/static/js/787.f7911b69.chunk.js",
+    "static/media/Govt.Of.Guj.png": "/musica-production/static/media/Govt.Of.Guj.b437a40b3f07639a6e51.png",
+    "static/media/logo.png": "/musica-production/static/media/logo.7a295eda7682d763fd47.png",
+    "static/media/Discovery.png": "/musica-production/static/media/Discovery.2f8de80a0ae49b00a15f.png",
+    "static/media/approduction.jpg": "/musica-production/static/media/approduction.e0a3459f7c5f3731b0a3.jpg",
+    "static/media/DD.png": "/musica-production/static/media/DD.7b3c0c34cdd4dd1e7be2.png",
+    "static/media/GujaratTourism.png": "/musica-production/static/media/GujaratTourism.8b04f6f1496130bb2a80.png",
+    "static/media/Network18.png": "/musica-production/static/media/Network18.63186b8ba2c3c7bef706.png",
+    "static/media/TheMovingPixel.png": "/musica-production/static/media/TheMovingPixel.4e3c1d25148dcffc51ad.png",
+    "static/media/Laluji_sons.png": "/musica-production/static/media/Laluji_sons.2884defdcfa7b9cbc48a.png",
+    "index.html": "/musica-production/index.html",
+    "main.0c440251.css.map": "/musica-production/static/css/main.0c440251.css.map",
+    "main.8dc84561.js.map": "/musica-production/static/js/main.8dc84561.js.map",
+    "787.f7911b69.chunk.js.map": "/musica-production/static/js/787.f7911b69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c440251.css",
+    "static/js/main.8dc84561.js"
+  ]
+}
