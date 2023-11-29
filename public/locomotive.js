@@ -5,7 +5,7 @@ const lenis = new Lenis({
     gestureDirection: "vertical", // vertical, horizontal, both
     smooth: true,
     mouseMultiplier: 0.5, // sensibility
-    smoothTouch: true, // Mobile
+    smoothTouch: false, // Mobile
     touchMultiplier: 2, // sensibility on mobile
     infinite: false // Infinite scrolling
   })
